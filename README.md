@@ -1,4 +1,4 @@
 # AEGIS
 
-Load balancer and rate limiter in Go.
+Load balancer and rate limiter in Go
 
